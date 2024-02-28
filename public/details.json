@@ -1,0 +1,36 @@
+{
+    "details": [
+        { 
+            "id": "1", "name": "Restaurant 1", "description": "Description 1", "location": "Location 1", "showContent": false, 
+              "review": 
+                [
+                  "nyaman, sejuk dan harga bersahabat",
+                  "suka dengan tempatnya yang strategis",
+                  "harga bersahabat"
+                ],
+                "slideshow":
+                [
+                  "https://awsimages.detik.net.id/visual/2018/08/16/81ac8fdc-9aa9-4542-ac03-301338b105fb_169.jpeg?w=400&q=90",
+                  "https://bisnishotel.id/wp-content/uploads/2020/05/TripAdvisor.jpg",
+                  "https://assets-pergikuliner.com/mdCgFiwlRWGaPtrYhVnuZLJ7UGo=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/1568377/picture-1567499505.jpg"
+                ]
+          },
+          { 
+            "id": "2", "name": "Restaurant 2", "description": "Description 2", "location": "Location 2", "showContent": false,
+              "review": 
+                [
+                  "KFC paling besar ruangannya",
+                  "Banyak promo menarik",
+                  "Luar biasa, dadanya besar",
+                  "baguss ingin kesini lagi"
+                ],
+                "slideshow":
+                [
+                  "https://img.idxchannel.com/media/700/images/idx/2022/11/23/Berapa_Total_Gerai_KFC_di_Indonesia.jpeg",
+                  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/KFC_Original_Recipe_chicken_in_bucket.jpg/640px-KFC_Original_Recipe_chicken_in_bucket.jpg",
+                  "https://awsimages.detik.net.id/community/media/visual/2022/10/07/catat-kfc-tutup-layanan-pesan-antar-14022-1_169.jpeg?w=600&q=90"
+                ]
+          }
+    ]
+}        
+        
